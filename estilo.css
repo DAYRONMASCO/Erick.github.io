@@ -1,0 +1,13 @@
+header img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.meter-container {
+  display: flex;
+  align-items: center;
+}
+.meter-container p {
+  margin-right: 10px;
+}
